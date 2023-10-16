@@ -119,4 +119,25 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+body {
+  font-family: "caviar_dreamsregular", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+/* Fonts */
+@font-face {
+  font-family: "myriad_proregular";
+  src: url("/fonts/myriad_pro_regular-webfont.woff2") format("woff2"), url("/fonts/myriad_pro_regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "caviar_dreamsregular";
+  src: url("/fonts/caviar_dreams_regular-webfont.woff2") format("woff2"), url("/fonts/caviar_dreams_regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }/*# sourceMappingURL=style.css.map */
