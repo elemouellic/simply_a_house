@@ -1,10 +1,9 @@
 /* Reset CSS */
-
 /* Box sizing border-box reset */
 *,
 *::before,
 *::after {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 /* Reset margin and padding */
@@ -69,12 +68,12 @@ thead,
 tr,
 th,
 td {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 
 /* Reset headings */
@@ -84,22 +83,22 @@ h3,
 h4,
 h5,
 h6 {
-    font-size: inherit;
-    font-weight: inherit;
+  font-size: inherit;
+  font-weight: inherit;
 }
 
 /* Reset lists */
 ul,
 ol {
-    list-style: none;
+  list-style: none;
 }
 
 /* Reset anchors */
 a {
-    text-decoration: none;
-    color: inherit;
-    background-color: transparent;
-    cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  background-color: transparent;
+  cursor: pointer;
 }
 
 /* Reset form elements */
@@ -107,18 +106,17 @@ button,
 input,
 select,
 textarea {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    font: inherit;
-    vertical-align: baseline;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 
 /* Reset images */
 img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
-
+  display: block;
+  max-width: 100%;
+  height: auto;
+}/*# sourceMappingURL=style.css.map */
